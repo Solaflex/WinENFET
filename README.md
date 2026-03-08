@@ -50,6 +50,10 @@ Register-ScheduledTask 'Run WinENFET AutoHotkey' -InputObject $task
 
 It doesn't work when you press `Win + E` on a virtual desktop when another virtual desktop has an open File Explorer window.
 
+## Let's connect
+
+If you have any questions, feel free to reach out to Tari Ibaba on [Twitter](https://twitter.com/Tari_Ibaba).
+
 ## Help bring this feature to Windows
 
 Please visit the Feedback Hub page at the link below to upvote a suggestion for a built-in option to always open File Explorer in a new tab. More upvotes make it more likely for the Windows team to act positively on the feedback and add the feature in the future.
